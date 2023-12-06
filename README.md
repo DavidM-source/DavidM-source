@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavidM-source
-- 👀 I’m interested in researching different weather events on other planets
+- 👀 I’m interested in researching tropical cyclogenesis on other planets
 - 🌱 I’m currently learning how to create climate models
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: davidmoore597@gmail.com
