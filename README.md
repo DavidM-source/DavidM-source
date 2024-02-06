@@ -2,7 +2,7 @@
 - 👀 I’m interested in researching tropical cyclogenesis on other planets
 - 🌱 I’m currently learning how to create climate models
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email: davidmoore597@gmail.com
+- 📫 Email: dmoore14@g.ucla.edu.com
 
 <!---
 DavidM-source/DavidM-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
